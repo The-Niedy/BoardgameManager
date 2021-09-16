@@ -4,9 +4,9 @@
 type cm
 
 type Measures = {
-    height: uint<cm>
-    width1: uint<cm>
-    width2: uint<cm>
+    height: double<cm>
+    width1: double<cm>
+    width2: double<cm>
 }
 
 type Boardgame = {
