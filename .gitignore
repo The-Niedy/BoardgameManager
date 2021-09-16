@@ -1,3 +1,6 @@
 # Ignore compiler output of dotnet
 bin/
 obj/
+
+# Ignore paket stuff
+packages/
